@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SkyproHomeW7Application {
 
-	public static void main(String[] args) {
-
-		SpringApplication.run(SkyproHomeW7Application.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(SkyproHomeW7Application.class, args);
+    }
 }
